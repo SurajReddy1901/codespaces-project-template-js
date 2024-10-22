@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Glitch E-commerce Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Crafted a Clothing E-commerce website with Cart Page and a dummy Payment Page along with Signin and Signup page.",
+    url: "https://glitchandco.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Interactive Story-Telling Platform",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "IF YOU OPEN THE SITE WAIT FOR 2 MINUTES!!!. Used MERN Stack to craft a website were we can read or upload a new Stories, novels, or books etc.., with a Interactive and Responsive website.",
+    url: "https://ancient-tales-frontend.onrender.com",
   },
   {
-    title: "My Resume Site",
+    title: "Custom API with JWT Authentication",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a Custom API were it as Signup, Signin and Signout facility which is secured by JWT and Secure Tokenization along with Expiring Token Timing.",
+    url: "https://github.com/SurajReddy1901/ancient-tales-backend",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Anime Channel Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a Anime Website to view the anime also you can view the description of particular character from this site.",
+    url: "https://animechannel.netlify.app/",
   },
 ];
 
